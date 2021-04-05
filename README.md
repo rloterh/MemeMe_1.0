@@ -16,10 +16,10 @@ Meme version 1 is an iOS app where a user create a Meme (Upload an Image and add
 ## Setup Instructions & Getting Started
 
 1. - Copy the git link `https://github.com/rloterh/MemeMe_1.0.git` of this project
-2. - Launch Xcode and select the option _clone an existing project_
-3. - Paste the copied link in the url of the opened dialogue and click the _clone_ button below
-4. - Choose the directory to store the project and click the _clone_ button below
-5. - Launch the app by clicking the _run_ button
+2. - Launch Xcode and select the option **_clone an existing project_**
+3. - Paste the copied link in the url of the opened dialogue and click the **_clone_** button below
+4. - Choose the directory to store the project and click the **_clone_** button below
+5. - Launch the app by clicking the **_run_** from Xcode
 
 
 ## Author
